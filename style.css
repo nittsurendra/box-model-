@@ -1,0 +1,36 @@
+
+.i{
+    
+    height: 200px;
+    width: 200px;
+    background-color: #CDF0EA;
+    border: 10px solid;
+    padding: 20px;
+    
+}
+.pro{
+    text-decoration: underline;
+}
+
+
+.ii{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 20px solid;
+    padding: 20px;
+    margin-left: 260px;
+    
+    
+   
+}
+.iii{
+   
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border: 10px solid;
+    padding: 20px;
+    margin-left: 540px;
+    
+}
